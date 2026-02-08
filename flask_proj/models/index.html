@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Minhas Tarefas</title>
+</head>
+<body>
+    <h1>Gerenciador de tarefas</h1>
+    <ul>
+        {% for tarefa in tarefas %}
+        <li>
+            {% if tarefa.concluida %}
+            <s>{{ tarefa.texto }}</s>
+            {% else %}
+            {{ tarefa.texto }} <a href="/completo/{{ tarefa.id }}">[Completo]</a>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+    <form action="/adicionar" method="post">
+        <input type="text" name="texto_tarefa" placeholder="Nova tarefa" required>
+        <button type="submit">Adicionar</button>
+    </form>
+</body>
+</html>
