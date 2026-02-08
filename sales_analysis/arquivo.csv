@@ -1,0 +1,347 @@
+data,produto,quantidade_vendida,preco
+2025-01-01,SSD 1TB,2,513.93
+2025-01-03,Cabo HDMI 2m,5,34.53
+2025-01-05,Teclado Mecânico,1,438.51
+2025-01-05,Hub USB-C,1,151.36
+2025-01-05,Cabo HDMI 2m,2,34.76
+2025-01-06,Cabo HDMI 2m,1,37.24
+2025-01-07,Webcam Full HD,5,265.33
+2025-01-08,Suporte para Notebook,1,100.89
+2025-01-11,Headset Gamer,3,310.76
+2025-01-12,Mouse Logitech,1,87.78
+2025-01-13,Notebook Dell,5,3217.54
+2025-01-13,Teclado Mecânico,3,445.28
+2025-01-17,Notebook Dell,3,3590.58
+2025-01-19,Mousepad RGB,5,70.23
+2025-01-21,Mousepad RGB,3,63.04
+2025-01-22,Cadeira Gamer,4,1081.68
+2025-01-24,Monitor LG 24'',2,814.83
+2025-01-25,Mouse Logitech,2,79.45
+2025-01-25,Notebook Dell,1,3766.87
+2025-01-26,Teclado Mecânico,4,479.1
+2025-01-27,Cabo HDMI 2m,2,34.92
+2025-01-29,Cabo HDMI 2m,3,33.05
+2025-01-29,Webcam Full HD,5,282.04
+2025-01-31,Cadeira Gamer,1,1120.47
+2025-02-01,Headset Gamer,5,321.4
+2025-02-02,SSD 1TB,1,504.71
+2025-02-03,Webcam Full HD,2,306.61
+2025-02-05,Hub USB-C,3,142.94
+2025-02-05,Headset Gamer,2,351.21
+2025-02-11,Cadeira Gamer,2,1307.3
+2025-02-11,Headset Gamer,1,336.63
+2025-02-11,Mousepad RGB,5,68.04
+2025-02-13,Cabo HDMI 2m,3,35.15
+2025-02-13,SSD 1TB,4,590.81
+2025-02-13,Teclado Mecânico,2,446.76
+2025-02-13,Monitor LG 24'',2,810.86
+2025-02-16,Headset Gamer,3,335.93
+2025-02-17,Headset Gamer,3,296.5
+2025-02-18,Teclado Mecânico,3,430.26
+2025-02-18,Webcam Full HD,3,303.86
+2025-02-19,Notebook Dell,4,3582.84
+2025-02-19,Hub USB-C,3,156.7
+2025-02-21,Mouse Logitech,1,91.91
+2025-02-22,Cabo HDMI 2m,5,38.03
+2025-02-22,Suporte para Notebook,4,95.46
+2025-02-23,Cabo HDMI 2m,1,31.91
+2025-02-24,Cadeira Gamer,1,1200.79
+2025-02-26,Webcam Full HD,1,260.05
+2025-02-26,SSD 1TB,3,521.16
+2025-02-27,Suporte para Notebook,5,99.26
+2025-03-04,Monitor LG 24'',3,782.91
+2025-03-07,Hub USB-C,2,161.8
+2025-03-07,Webcam Full HD,3,276.05
+2025-03-09,Monitor LG 24'',3,805.84
+2025-03-11,Webcam Full HD,5,288.93
+2025-03-12,Suporte para Notebook,1,92.75
+2025-03-13,Cabo HDMI 2m,3,35.27
+2025-03-13,Notebook Dell,5,3341.31
+2025-03-13,Webcam Full HD,2,276.99
+2025-03-14,SSD 1TB,2,556.44
+2025-03-14,Monitor LG 24'',2,905.59
+2025-03-15,Cadeira Gamer,2,1295.59
+2025-03-17,Suporte para Notebook,5,98.06
+2025-03-18,Mousepad RGB,2,62.43
+2025-03-18,Teclado Mecânico,2,410.13
+2025-03-19,SSD 1TB,2,549.09
+2025-03-20,SSD 1TB,1,518.65
+2025-03-21,Webcam Full HD,4,307.61
+2025-03-23,Hub USB-C,5,148.66
+2025-03-23,Suporte para Notebook,2,96.77
+2025-03-24,Suporte para Notebook,1,89.67
+2025-03-24,Webcam Full HD,4,297.7
+2025-03-25,SSD 1TB,4,600.62
+2025-03-26,Cabo HDMI 2m,1,33.26
+2025-03-27,Cabo HDMI 2m,5,36.35
+2025-03-27,Cadeira Gamer,5,1241.04
+2025-03-29,Cadeira Gamer,2,1311.35
+2025-03-29,Cabo HDMI 2m,4,34.89
+2025-03-31,Headset Gamer,4,314.21
+2025-03-31,Notebook Dell,2,3647.69
+2025-04-01,Teclado Mecânico,3,407.42
+2025-04-01,Cabo HDMI 2m,4,32.11
+2025-04-03,Webcam Full HD,5,307.53
+2025-04-06,Webcam Full HD,1,295.79
+2025-04-07,Webcam Full HD,4,256.97
+2025-04-07,Hub USB-C,3,164.6
+2025-04-08,Suporte para Notebook,1,87.2
+2025-04-09,Mouse Logitech,5,93.15
+2025-04-11,Notebook Dell,2,3319.89
+2025-04-12,Notebook Dell,5,3673.17
+2025-04-13,Monitor LG 24'',2,865.8
+2025-04-14,Hub USB-C,5,148.87
+2025-04-15,Teclado Mecânico,2,430.65
+2025-04-15,Mousepad RGB,4,61.95
+2025-04-16,Teclado Mecânico,3,450.18
+2025-04-16,Teclado Mecânico,3,425.02
+2025-04-18,Webcam Full HD,4,307.24
+2025-04-18,SSD 1TB,3,541.32
+2025-04-18,Hub USB-C,4,143.26
+2025-04-18,Webcam Full HD,2,260.53
+2025-04-19,Monitor LG 24'',3,823.93
+2025-04-23,Hub USB-C,4,154.91
+2025-04-23,Headset Gamer,1,291.71
+2025-04-24,Notebook Dell,1,3390.38
+2025-04-25,Webcam Full HD,4,274.85
+2025-04-26,Headset Gamer,3,327.58
+2025-04-27,Notebook Dell,5,3257.3
+2025-04-28,Webcam Full HD,1,271.56
+2025-04-29,Monitor LG 24'',5,788.22
+2025-04-29,Hub USB-C,2,154.22
+2025-05-01,SSD 1TB,3,530.35
+2025-05-01,Notebook Dell,5,3798.74
+2025-05-02,SSD 1TB,2,526.78
+2025-05-05,Cabo HDMI 2m,5,36.82
+2025-05-05,Mousepad RGB,4,63.66
+2025-05-05,Cadeira Gamer,3,1234.81
+2025-05-06,Monitor LG 24'',5,874.64
+2025-05-08,Notebook Dell,4,3817.73
+2025-05-10,Monitor LG 24'',5,809.66
+2025-05-17,Teclado Mecânico,1,442.19
+2025-05-17,Teclado Mecânico,2,465.82
+2025-05-17,Monitor LG 24'',2,776.47
+2025-05-17,Webcam Full HD,4,274.45
+2025-05-18,Hub USB-C,4,159.11
+2025-05-19,Cabo HDMI 2m,5,32.57
+2025-05-22,Hub USB-C,2,160.71
+2025-05-23,Cabo HDMI 2m,4,36.91
+2025-05-26,Suporte para Notebook,3,104.36
+2025-05-26,SSD 1TB,1,541.23
+2025-05-28,Mousepad RGB,5,68.88
+2025-05-31,SSD 1TB,5,601.79
+2025-06-03,SSD 1TB,2,519.87
+2025-06-07,Suporte para Notebook,2,93.79
+2025-06-07,Mouse Logitech,1,86.04
+2025-06-07,Cadeira Gamer,1,1309.32
+2025-06-10,Teclado Mecânico,4,483.36
+2025-06-10,Hub USB-C,2,152.65
+2025-06-13,Cabo HDMI 2m,3,33.61
+2025-06-13,Hub USB-C,2,153.35
+2025-06-13,Cadeira Gamer,5,1186.11
+2025-06-14,SSD 1TB,3,496.67
+2025-06-15,Webcam Full HD,4,288.26
+2025-06-16,Cabo HDMI 2m,4,34.4
+2025-06-16,Headset Gamer,3,297.13
+2025-06-17,Notebook Dell,4,3818.34
+2025-06-18,Mouse Logitech,1,90.92
+2025-06-19,Notebook Dell,1,3172.44
+2025-06-19,Headset Gamer,2,323.28
+2025-06-20,Webcam Full HD,3,272.55
+2025-06-20,Teclado Mecânico,1,444.17
+2025-06-21,Cadeira Gamer,2,1315.38
+2025-06-21,SSD 1TB,1,535.82
+2025-06-21,Notebook Dell,2,3624.48
+2025-06-22,Monitor LG 24'',5,793.66
+2025-06-24,Headset Gamer,5,329.68
+2025-06-24,Cabo HDMI 2m,3,33.87
+2025-06-25,Headset Gamer,3,308.61
+2025-06-27,Headset Gamer,3,335.65
+2025-06-27,Cadeira Gamer,3,1151.45
+2025-06-27,Teclado Mecânico,2,448.63
+2025-06-27,Cadeira Gamer,4,1270.69
+2025-06-29,Mouse Logitech,3,80.56
+2025-06-29,Cadeira Gamer,5,1116.68
+2025-06-30,Mouse Logitech,5,87.59
+2025-07-02,Teclado Mecânico,1,445.29
+2025-07-03,Mousepad RGB,5,68.83
+2025-07-03,Headset Gamer,2,289.08
+2025-07-03,Cadeira Gamer,3,1164.84
+2025-07-03,Teclado Mecânico,2,426.62
+2025-07-04,Cabo HDMI 2m,2,35.53
+2025-07-04,Cadeira Gamer,4,1111.01
+2025-07-05,Hub USB-C,2,155.2
+2025-07-06,Monitor LG 24'',2,852.24
+2025-07-06,Suporte para Notebook,4,98.58
+2025-07-08,Suporte para Notebook,2,88.16
+2025-07-09,Headset Gamer,3,336.67
+2025-07-11,Hub USB-C,4,159.37
+2025-07-11,SSD 1TB,3,549.96
+2025-07-12,Suporte para Notebook,1,87.37
+2025-07-13,Cabo HDMI 2m,3,32.65
+2025-07-14,Teclado Mecânico,1,422.44
+2025-07-15,SSD 1TB,5,569.63
+2025-07-17,SSD 1TB,1,566.61
+2025-07-18,Mouse Logitech,4,84.1
+2025-07-18,Notebook Dell,1,3288.42
+2025-07-18,Mouse Logitech,5,92.12
+2025-07-19,Webcam Full HD,3,303.01
+2025-07-25,Notebook Dell,5,3579.02
+2025-07-26,Notebook Dell,4,3651.52
+2025-07-26,Mousepad RGB,2,66.55
+2025-07-26,Teclado Mecânico,3,466.7
+2025-07-27,Monitor LG 24'',1,889.66
+2025-07-29,Mouse Logitech,1,93.33
+2025-07-30,Mouse Logitech,4,90.7
+2025-08-01,Cabo HDMI 2m,2,31.66
+2025-08-02,Cadeira Gamer,1,1141.48
+2025-08-02,Cadeira Gamer,1,1214.87
+2025-08-06,Monitor LG 24'',3,818.11
+2025-08-10,Headset Gamer,2,338.0
+2025-08-11,Cadeira Gamer,5,1284.62
+2025-08-12,Teclado Mecânico,1,463.8
+2025-08-12,Cadeira Gamer,4,1227.64
+2025-08-14,Cadeira Gamer,5,1263.53
+2025-08-16,Cabo HDMI 2m,4,33.55
+2025-08-16,Hub USB-C,2,154.09
+2025-08-18,Cabo HDMI 2m,4,36.09
+2025-08-19,Notebook Dell,2,3496.07
+2025-08-20,SSD 1TB,3,519.26
+2025-08-20,Teclado Mecânico,2,467.87
+2025-08-21,Teclado Mecânico,2,408.35
+2025-08-21,SSD 1TB,1,570.95
+2025-08-22,Suporte para Notebook,3,97.12
+2025-08-22,Cadeira Gamer,2,1182.49
+2025-08-23,Webcam Full HD,5,275.65
+2025-08-23,Cabo HDMI 2m,3,32.5
+2025-08-23,Headset Gamer,1,289.86
+2025-08-25,Cabo HDMI 2m,1,36.65
+2025-08-26,Suporte para Notebook,3,87.18
+2025-08-26,Cabo HDMI 2m,1,35.09
+2025-08-27,Webcam Full HD,5,298.01
+2025-08-27,Cabo HDMI 2m,2,32.08
+2025-08-28,Hub USB-C,5,145.46
+2025-08-28,Teclado Mecânico,3,481.33
+2025-08-31,Mouse Logitech,4,90.63
+2025-09-01,Mouse Logitech,5,88.87
+2025-09-02,Hub USB-C,4,148.46
+2025-09-02,Mouse Logitech,5,79.67
+2025-09-03,Suporte para Notebook,3,104.16
+2025-09-05,Teclado Mecânico,5,435.64
+2025-09-06,Suporte para Notebook,4,95.39
+2025-09-06,Cabo HDMI 2m,4,33.82
+2025-09-06,Hub USB-C,2,154.28
+2025-09-07,SSD 1TB,5,568.3
+2025-09-10,Notebook Dell,1,3638.47
+2025-09-12,Suporte para Notebook,1,88.24
+2025-09-13,Cadeira Gamer,1,1194.11
+2025-09-14,SSD 1TB,3,514.96
+2025-09-14,Webcam Full HD,1,302.29
+2025-09-16,Mouse Logitech,1,89.6
+2025-09-16,Hub USB-C,5,142.6
+2025-09-19,Mousepad RGB,1,62.79
+2025-09-22,Webcam Full HD,4,304.72
+2025-09-22,SSD 1TB,5,521.59
+2025-09-24,Webcam Full HD,1,279.29
+2025-09-24,Notebook Dell,1,3835.58
+2025-09-26,Mouse Logitech,3,80.25
+2025-09-26,Mousepad RGB,5,69.11
+2025-09-27,Monitor LG 24'',5,862.33
+2025-09-27,Mousepad RGB,3,69.0
+2025-09-29,Monitor LG 24'',4,795.16
+2025-09-29,Headset Gamer,2,327.49
+2025-09-29,Notebook Dell,5,3785.38
+2025-09-30,SSD 1TB,3,510.42
+2025-09-30,Cadeira Gamer,3,1230.18
+2025-10-01,Notebook Dell,5,3376.39
+2025-10-01,Teclado Mecânico,2,438.62
+2025-10-03,Cadeira Gamer,1,1102.91
+2025-10-04,Notebook Dell,4,3206.58
+2025-10-04,Mouse Logitech,3,93.06
+2025-10-06,SSD 1TB,2,561.38
+2025-10-06,Mouse Logitech,5,83.19
+2025-10-08,Webcam Full HD,3,286.03
+2025-10-08,Mouse Logitech,1,80.72
+2025-10-08,Mousepad RGB,5,71.12
+2025-10-09,Notebook Dell,1,3201.68
+2025-10-11,Suporte para Notebook,2,88.56
+2025-10-16,Webcam Full HD,4,277.92
+2025-10-16,SSD 1TB,2,555.29
+2025-10-16,Headset Gamer,3,346.14
+2025-10-17,Cabo HDMI 2m,1,34.41
+2025-10-17,Teclado Mecânico,2,465.69
+2025-10-18,Cabo HDMI 2m,4,35.64
+2025-10-18,SSD 1TB,3,499.89
+2025-10-18,Suporte para Notebook,3,87.44
+2025-10-18,Hub USB-C,4,148.0
+2025-10-19,Headset Gamer,5,333.97
+2025-10-20,Suporte para Notebook,4,88.54
+2025-10-22,Monitor LG 24'',3,879.58
+2025-10-23,Cabo HDMI 2m,2,32.55
+2025-10-24,Mousepad RGB,2,68.0
+2025-10-25,Suporte para Notebook,3,91.88
+2025-10-25,SSD 1TB,3,553.38
+2025-10-26,Suporte para Notebook,3,91.95
+2025-10-26,Webcam Full HD,4,265.14
+2025-10-26,Webcam Full HD,5,276.17
+2025-10-28,Monitor LG 24'',3,918.8
+2025-10-29,Headset Gamer,2,288.81
+2025-10-29,Webcam Full HD,1,279.29
+2025-11-05,Hub USB-C,4,157.28
+2025-11-06,SSD 1TB,3,571.54
+2025-11-07,Mousepad RGB,2,63.13
+2025-11-07,Mousepad RGB,5,59.99
+2025-11-08,SSD 1TB,1,578.33
+2025-11-09,Cabo HDMI 2m,2,31.77
+2025-11-10,Hub USB-C,4,159.74
+2025-11-12,Headset Gamer,1,341.23
+2025-11-12,Monitor LG 24'',2,854.0
+2025-11-12,Suporte para Notebook,3,102.13
+2025-11-16,Teclado Mecânico,4,439.02
+2025-11-17,Teclado Mecânico,5,492.3
+2025-11-17,Suporte para Notebook,1,99.52
+2025-11-18,Monitor LG 24'',1,860.04
+2025-11-20,Notebook Dell,5,3538.32
+2025-11-21,Hub USB-C,1,163.8
+2025-11-22,Cabo HDMI 2m,2,37.96
+2025-11-22,Cabo HDMI 2m,1,36.33
+2025-11-25,Mouse Logitech,3,80.29
+2025-11-26,Cadeira Gamer,1,1248.85
+2025-11-27,Cabo HDMI 2m,3,34.9
+2025-11-27,Headset Gamer,1,325.22
+2025-11-28,Teclado Mecânico,2,465.77
+2025-12-01,Webcam Full HD,1,262.18
+2025-12-01,Notebook Dell,4,3728.34
+2025-12-02,Mouse Logitech,5,79.47
+2025-12-03,Headset Gamer,3,325.86
+2025-12-05,Hub USB-C,1,163.97
+2025-12-07,Cadeira Gamer,4,1210.31
+2025-12-08,Teclado Mecânico,3,464.43
+2025-12-09,Mouse Logitech,1,85.55
+2025-12-10,Teclado Mecânico,4,474.66
+2025-12-10,Hub USB-C,1,146.75
+2025-12-12,Monitor LG 24'',1,777.45
+2025-12-12,Teclado Mecânico,3,476.45
+2025-12-12,Suporte para Notebook,5,99.88
+2025-12-13,Mousepad RGB,2,61.28
+2025-12-13,Mousepad RGB,4,67.29
+2025-12-14,Webcam Full HD,1,282.64
+2025-12-15,SSD 1TB,1,533.54
+2025-12-15,Cadeira Gamer,4,1280.23
+2025-12-15,Teclado Mecânico,4,488.61
+2025-12-15,Notebook Dell,1,3794.97
+2025-12-16,Cabo HDMI 2m,3,33.19
+2025-12-16,Suporte para Notebook,1,89.95
+2025-12-17,Cadeira Gamer,2,1131.97
+2025-12-17,Notebook Dell,1,3723.55
+2025-12-18,Monitor LG 24'',3,815.79
+2025-12-18,Webcam Full HD,3,293.56
+2025-12-19,Teclado Mecânico,5,433.58
+2025-12-20,Cadeira Gamer,1,1298.98
+2025-12-22,Mousepad RGB,2,71.44
+2025-12-23,SSD 1TB,4,566.58
+2025-12-25,Cadeira Gamer,2,1312.84
+2025-12-26,Mousepad RGB,4,68.62
+2025-12-28,Monitor LG 24'',1,860.57
+2025-12-28,Suporte para Notebook,5,104.36
+2025-12-28,Cadeira Gamer,3,1091.71

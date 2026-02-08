@@ -1,0 +1,20 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "texto": "Tarefa 001 Phil GP",
+      "concluida": true
+    },
+    {
+      "id": 2,
+      "texto": "Tarefa 002 Phil GP",
+      "concluida": true
+    },
+    {
+      "id": 3,
+      "texto": "Tarefa 003 Phil GP",
+      "concluida": false
+    }
+  ],
+  "proximo_id": 4
+}
